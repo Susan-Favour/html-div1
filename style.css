@@ -1,0 +1,8 @@
+#container{
+border: dotted 2px red;
+}
+#container2{
+    border: solid 1px yellow;
+    padding: 20px;
+    margin: 5%;
+}
